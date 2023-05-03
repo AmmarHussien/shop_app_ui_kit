@@ -1,3 +1,6 @@
+
+// ignore_for_file: file_names
+
 import 'package:flutter/material.dart';
 
 class Product {
@@ -13,7 +16,7 @@ class Product {
   });
 }
 
-List<Product> demo_product = [
+List<Product> demoProduct = [
   Product(
     image: "assets/images/product_0.png",
     title: "Long Sleeve Shirts",
