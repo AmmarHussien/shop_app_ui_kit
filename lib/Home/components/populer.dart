@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../../constants.dart';
-import '../../models/Product.dart';
+import '../../models/peoducts.dart';
 import 'product_card.dart';
 import 'section_header.dart';
 
